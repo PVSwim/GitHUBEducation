@@ -5,3 +5,4 @@ git add file
 (<tab> автозаполнение)
 git commit -a -m "comment"
 git checkout version_id
+test checkout
