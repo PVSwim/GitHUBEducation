@@ -1,5 +1,5 @@
 # Git Education. First semenar
-*git - система контроля версий*
+git - система контроля версий
 1. сохранение версий
 2. коллективная работа
 3. контроль изменений
@@ -10,5 +10,3 @@ git add .\FileName - добавить файл в репозитарий, фай
 git add * - добавить все файлы
 git status
 git log
-git checkput version_id
-git checkout master
