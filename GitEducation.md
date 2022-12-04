@@ -25,6 +25,29 @@ git checkout master - возврат к актуальной версии
 
 git diff - сравнение текущего сохранения файлов с версией файлов в master
 
+git branch - просмотр веток
+
+git branch branch_name - создание ветки
+
+git checkout branch_mane - переход в ветку
+
+git add .\FileName - добавить измененный файл в репозитарий
+
+git commit -m "commit name"  - сохранение изменение
+
+.gitignore - специальный файл со список игнорируемых (невключенных в репозитарий файлов) 
+
+git merge branch_name - объединение веток, к текущей присоединяется branch_name
+
+git branch -d branch_name - удаление ветки
+
+git log --graph - показ лога в виде дерева
+
+git config --global user.name "user_name" - задание имени владельца репозитария или ветки
+
+git config --global user.email "user_email" - задание email владельца репозитария или ветки
+
+
 ## язык разметки MarkDown
 
 **Bold
