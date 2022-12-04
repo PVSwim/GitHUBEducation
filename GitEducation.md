@@ -25,6 +25,8 @@ git checkout master - возврат к актуальной версии
 
 git diff - сравнение текущего сохранения файлов с версией файлов в master
 
+# Second lesson
+
 git branch - просмотр веток
 
 git branch branch_name - создание ветки
