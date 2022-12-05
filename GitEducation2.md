@@ -1,4 +1,5 @@
 # Git semenar #2
+**05.12.2022 Monday**
 
 ## To create branches
 
