@@ -12,3 +12,5 @@
 *git merge branch_name* - to merge an branch_name to an actual branch 
 
 ## Merging conflicts
+
+* Конфликт 
