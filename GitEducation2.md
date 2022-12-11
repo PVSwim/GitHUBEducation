@@ -13,4 +13,5 @@
 
 ## Merging conflicts
 
-* Конфликт еще один конфликт
+* Conflict #2 неудачный, получился fast-forward, так как master не были изменен.
+* Attempt #3
