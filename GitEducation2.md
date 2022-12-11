@@ -13,5 +13,10 @@
 
 ## Merging conflicts
 
+<<<<<<< HEAD
 * Conflict #2 неудачный, получился fast-forward, так как master не были изменен.
 * Attempt #3
+=======
+* Конфликт еще один конфликт. Неудачный конфликт #3
+Attempt #3 . Change branch "Conflict"
+>>>>>>> conflict
