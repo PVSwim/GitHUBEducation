@@ -1,0 +1,1 @@
+# Remote repository for semenary #3
