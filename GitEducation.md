@@ -31,7 +31,7 @@ git branch - просмотр веток
 
 git branch branch_name - создание ветки
 
-git checkout branch_mane - переход в ветку
+git checkout branch_name - переход в ветку brach_name
 
 git add .\FileName - добавить измененный файл в репозитарий
 
@@ -48,6 +48,8 @@ git log --graph - показ лога в виде дерева
 git config --global user.name "user_name" - задание имени владельца репозитария или ветки
 
 git config --global user.email "user_email" - задание email владельца репозитария или ветки
+
+git diff branch_name1 branch_name2 - сравненение веток
 
 
 ## язык разметки MarkDown
