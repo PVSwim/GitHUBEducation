@@ -13,4 +13,5 @@
 
 ## Merging conflicts
 
-* Конфликт еще один конфликт
+* Конфликт еще один конфликт. Неудачный конфликт #3
+Attempt #3 . Change branch "Conflict"
