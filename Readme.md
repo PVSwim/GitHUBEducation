@@ -1,4 +1,4 @@
-# Remote repository for semenary #3
+# Remote repository for seminar #3
 
 changing from my local repository
 
