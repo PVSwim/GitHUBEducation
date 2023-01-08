@@ -1,6 +1,5 @@
-# Git Education. First semenar
+# Git Education. First seminar
 *Git - система контроля версий*
-
 1. сохранение версий
 2. коллективная работа
 3. контроль изменений
